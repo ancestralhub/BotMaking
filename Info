@@ -1,0 +1,21 @@
+Commands
+!patrol - Bot patrols around the given points. You must have at least 2 points and you can add points by doing !edit Letter, it goes by alphabetical order.
+!stoppatrol/!stop-patrol - Bot stops patrolling
+!edit - Adds/Edits a point must be done like this: !edit Letter where the letter is in alphabetical order
+!delpatrolpoint/!delpatrol-point - Deletes patrol point given the letter. Example: !delpatrolpoint A
+!delallpatrolpoints - Deletes all the patrol points
+!patrolpoints/!patrol-points - Lists all the existing patrol points
+!follow - Bot follows you around
+!unfollow - Bot stops following you around
+!whitelist/!white-list - Whitelists a player. Example: !whitelist dogelover29. Whitelist prevents them from getting shot by the bot they won't have any permissions on the bot
+!remove - Removes player from whitelist. Example: !remove dogelover29
+!whitelisted - Displays all the whitelisted people
+!showgun/!show-gun - Bot holds out gun all the time
+!attackon - Bot will attack people who are red name and not whitelisted
+!attackoff - Bot will not attack anyone
+!switchnode - Allows you to enable killmode which will kill everyone in node. The bot will copy your base in the exact same location with a killzone board
+!killmodeon - Enables killmode where it will kill everyone on the node, must switch nodes first
+!killmodeoff - Disables kill mode
+!hidegun/!hide-gun - Hides gun
+!quit - Bot is fired
+!tp - Bot teleports to you
